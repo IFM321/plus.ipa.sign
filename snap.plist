@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>https://cdn.discordapp.com/attachments/1200030980698816592/1204061502756102186/snap.ipa?ex=65d35ca8&amp;is=65c0e7a8&amp;hm=7559111653036bbe69bbe8b0e25a65141b9fcc0e9b70fba1593dc890e94e26aa&amp;</string>
+                                </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string>com.toyopagroup.picaboo</string>
+                                <key>kind</key>
+                                <string>software</string>
+                                <key>title</key>
+                                <string>Snapchat</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
